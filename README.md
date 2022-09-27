@@ -21,7 +21,7 @@ Vimos também os principais componentes da plataforma Java que são:
     -Bibliotecas Java (API)
     -Na próxima aula já vamos escrever o primeiro código Java! Vamos continuar?
 
-# Modulo 2: 
+# Modulo 2: Instalação e primeiro comando.
 
 Nessa aula você escreveu o seu primeiro código Java e aprendemos:
 
