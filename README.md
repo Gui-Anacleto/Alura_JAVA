@@ -33,3 +33,15 @@ Nessa aula você escreveu o seu primeiro código Java e aprendemos:
     -para abrir e fechar um bloco usaremos as chaves {}
     -um programa Java possui uma entrada que é uma função (método) main
     -para imprimir algo no console usamos a instrução System.out.println()
+    
+# Modulo 3: Começando com eclipse
+
+
+Este capítulo apresentou:
+
+    -O papel de um IDE e sua diferença de um editor
+    -Como fazer o download do Eclipse IDE
+    -Para que serve um workspace
+    -O conceito de perspectiva
+    -Como criar um projeto Java, inclusive classes e como executá-lo.
+    -Como exibir diferentes views
