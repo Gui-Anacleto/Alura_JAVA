@@ -60,7 +60,7 @@ Veja como funciona o cast implícito e explícito na tabela abaixo.
         byte	----	Impl.	(char)	Impl.	Impl.	Impl.	Impl.
         short	(byte)	----	(char)	Impl.	Impl.	Impl.	Impl.
         char	(byte)	(short)	----	Impl.	Impl.	Impl.	Impl.
-        int	     (byte)	(short)	(char)	----	Impl.	Impl.	Impl.
+        int	        (byte)	(short)	(char)	----	Impl.	Impl.	Impl.
         long	(byte)	(short)	(char)	(int)	----	Impl.	Impl.
         float	(byte)	(short)	(char)	(int)	(long)	----	Impl.
         double	(byte)	(short)	(char)	(int)	(long)	(float)	----
@@ -72,7 +72,7 @@ Para comparar cada tipo primitivo de forma mais clara, a tabela abaixo mostra qu
         byte	1 byte
         short	2 bytes
         char	2 bytes
-        int	4 bytes
+        int	    4 bytes
         float	4 bytes
         long	8 bytes
         double	8 bytes
