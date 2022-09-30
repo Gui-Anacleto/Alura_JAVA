@@ -72,7 +72,7 @@ Para comparar cada tipo primitivo de forma mais clara, a tabela abaixo mostra qu
         byte	1 byte
         short	2 bytes
         char	2 bytes
-        int	    4 bytes
+        int	        4 bytes
         float	4 bytes
         long	8 bytes
         double	8 bytes
