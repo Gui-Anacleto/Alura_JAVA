@@ -76,3 +76,10 @@ Para comparar cada tipo primitivo de forma mais clara, a tabela abaixo mostra qu
         float	4 bytes
         long	8 bytes
         double	8 bytes
+
+# Modulo 5: Trabalhando com caracteres
+
+        -O conceito e como declarar char e String
+        -Como concatenar Strings
+        -Atalho para criação da main
+        -Variáveis guardam valores e não referências.
